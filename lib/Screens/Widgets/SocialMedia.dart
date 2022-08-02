@@ -74,7 +74,7 @@ class Social extends StatelessWidget {
                   left: D.Hight10 *46.4,
                   top: D.Hight10 *10.7,
                   child: Text(
-                    "Copyright ©2020 All rights reserved ",
+                    "Copyright ©2022 All rights reserved ",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Color(0xff21243d),

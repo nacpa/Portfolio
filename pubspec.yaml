@@ -36,6 +36,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   get:
   url_launcher: ^6.1.5
+  peanut: ^4.3.0
+  lottie: ^1.4.1
+  carousel_slider: ^4.1.1
 
 dev_dependencies:
   flutter_test:
